@@ -9,8 +9,7 @@
   "scripts": {
     "build": "ember build",
     "start": "ember server",
-    "test": "npm run-script lint && npm run-script utest",
-    "utest": "istanbul cover _mocha /tests",
+    "test": "npm run-script lint",
     "lint": "eslint *.js addon app blueprints config tests"
   },
   "repository": "git@github.com:ciena-frost/ember-cli-ember-ecosystem.git",
