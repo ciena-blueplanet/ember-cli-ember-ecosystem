@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-ember-ecosystem",
   "version": "0.0.0",
-  "description": "Groups of features that pin dependencies to an LTS range.",
+  "description": "Ember groups of features that pin dependencies to an LTS range.",
   "directories": {
     "doc": "doc",
     "test": "tests"
