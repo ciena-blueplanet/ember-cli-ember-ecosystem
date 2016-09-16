@@ -1,8 +1,8 @@
-[ci-img]: https://img.shields.io/travis/ciena-frost/ember-cli-ember-ecosystem.svg "Travis CI Build Status"
-[ci-url]: https://travis-ci.org/ciena-frost/ember-cli-ember-ecosystem
+[ci-img]: https://img.shields.io/travis/ciena-blueplanet/ember-cli-ember-ecosystem.svg "Travis CI Build Status"
+[ci-url]: https://travis-ci.org/ciena-blueplanet/ember-cli-ember-ecosystem
 
-[cov-img]: https://img.shields.io/coveralls/ciena-frost/ember-cli-ember-ecosystem.svg "Coveralls Code Coverage"
-[cov-url]: https://coveralls.io/github/ciena-frost/ember-cli-ember-ecosystem
+[cov-img]: https://img.shields.io/coveralls/ciena-blueplanet/ember-cli-ember-ecosystem.svg "Coveralls Code Coverage"
+[cov-url]: https://coveralls.io/github/ciena-blueplanet/ember-cli-ember-ecosystem
 
 [npm-img]: https://img.shields.io/npm/v/ember-cli-ember-ecosystem.svg "NPM Version"
 [npm-url]: https://www.npmjs.com/package/ember-cli-ember-ecosystem
