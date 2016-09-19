@@ -11,42 +11,27 @@
 
 # ember-cli-ember-ecosystem
 
- * [Installation](#Installation)
- * [API](#API)
- * [Examples](#Examples)
- * [Contributing](#Contributing)
+ * [Description](#description)
+ * [Installation](#installation)
+ * [Links](#links)
+
+## Description
+Contains the Ember LTS ecosystem definition in `lts.json` and dependent on the ecosystem installer addon.
 
 ## Installation
 ```
 ember install ember-cli-ember-ecosystem
 ```
 
-## API
-
-| Attribute | Type | Value | Description |
-| --------- | ---- | ----- | ----------- |
-| ` ` | ` ` | ` ` | Coming soon |
-
-## Examples
-
-### Example
-```handlebars
-Coming soon
-```
-
 ## Development
 ### Setup
 ```
-git clone git@github.com:ciena-frost/ember-cli-ember-ecosystem.git
+git clone git@github.com:ciena-blueplanet/ember-cli-ember-ecosystem.git
 cd ember-cli-ember-ecosystem
 npm install && bower install
 ```
 
-### Development Server
-A dummy application for development is available under `ember-cli-ember-ecosystem/tests/dummy`.
-To run the server run `ember server` (or `npm start`) from the root of the repository and
-visit the app at http://localhost:4200.
+## Links
+* Dependent on [ember-cli-ecosystem-installer](https://github.com/ciena-blueplanet/ember-cli-ecosystem-installer) 
+* [LTS file format](https://github.com/ciena-blueplanet/ember-cli-ecosystem-installer#lts-file-format)
 
-### Testing
-Run `npm test` from the root of the project to run linting checks as well as execute the test suite
-and output code coverage.
