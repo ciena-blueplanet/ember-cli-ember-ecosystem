@@ -1,3 +1,9 @@
+# 0.2.0
+* Add documentation
+* Fix #1 
+
+
+
 # 0.1.1
 * Remove unnecessary dependencies 
 
