@@ -11,7 +11,7 @@
   "ember-cli-clipboard": "~0.4.0",
   "ember-cli-code-coverage": "~0.3.0",
   "ember-cli-dependency-checker": "^1.2.0",
-  "ember-cli-deploy": "latest",
+  "ember-cli-deploy": "~0.6.4",
   "ember-cli-dotenv": "~1.2.0",
   "ember-cli-htmlbars": "^1.0.3",
   "ember-cli-htmlbars-inline-precompile": "^0.3.1",
