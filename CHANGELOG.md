@@ -1,3 +1,8 @@
+# 0.3.1
+* remove invalid invisible characters
+
+
+
 # 0.3.0
 * Add all the packages documents here: https://confluence.ciena.com/display/frost/Ember+ecosystem
 
