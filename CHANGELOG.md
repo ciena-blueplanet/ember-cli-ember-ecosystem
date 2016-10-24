@@ -1,3 +1,8 @@
+# 0.4.0
+* **Remove** bower pkg
+
+
+
 # 0.3.2
 * We are currently not support `latest` as a version. I replaced this tag by the the numeric latest version.
 
