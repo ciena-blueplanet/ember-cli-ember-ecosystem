@@ -1,3 +1,8 @@
+# 1.0.0 (2017-03-20)
+* **Updated** dependencies to produce the first major version
+
+
+
 # 0.4.0
 * **Remove** bower pkg
 
