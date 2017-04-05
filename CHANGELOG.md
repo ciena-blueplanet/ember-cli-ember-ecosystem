@@ -1,3 +1,7 @@
+# 1.0.1 (2017-04-05)
+* **Added** `ember-elsewhere`
+
+
 # 1.0.0 (2017-03-20)
 * **Updated** dependencies to produce the first major version
 
